@@ -9,8 +9,6 @@
 <br>
 -개발 인원: 2인
 <br>
--깃허브: https://github.com/shinyluck12/kumkang_renewal
-<br>
 <br>
 -설명: 첫 팀프로젝트 입니다. 금강제화 홈페이지를 리뉴얼했습니다.
 <br>
