@@ -1,6 +1,6 @@
 # 금강제화 홈페이지 리뉴얼 - 팀 프로젝트
 <br>
--링크: http://vampireapire12.dothome.co.kr
+-링크: http://shinyluck93.dothome.co.kr
 <br>
 <br>
 -개발 기간: 2021.9 ~ 2021.10
