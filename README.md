@@ -1,4 +1,4 @@
-# 금강제화 홈페이지 리뉴얼 팀 프로젝트
+# 금강제화 홈페이지 리뉴얼 - 팀 프로젝트
 <br>
 -링크: http://vampireapire12.dothome.co.kr
 <br>
